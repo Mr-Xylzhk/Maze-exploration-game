@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/images">
+    <file>resources/images/wall.png</file>
+    <file>resources/images/start.png</file>
+    <file>resources/images/end.png</file>
+    <file>resources/images/player.png</file>
+  </qresource>
+</RCC>
